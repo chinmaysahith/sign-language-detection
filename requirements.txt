@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+mediapipe
+tensorflow
+torch
+torchvision
+matplotlib
+scikit-learn
+kaggle
+dvc[gdrive]
